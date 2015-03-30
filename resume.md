@@ -25,7 +25,10 @@ Frontend: Javascript, Coffescript, **Ember.js**, Ember Data, Backbone.js, Meteor
 
 ## Experience
 
-### [Loyaljet](http://loyaljet.ru) (December 2013 – Present)
+### [Visible.vc, Inc.](https://visible.vc) (March 2015 - Present)
+Role: Software Developer
+
+### [Loyaljet](http://loyaljet.ru) (December 2013 – March 2015)
 Role: Lead Developer
 
 Developed a complex SaaS marketing automation product from the ground up (2nd employee after CTO).
