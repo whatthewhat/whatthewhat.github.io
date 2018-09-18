@@ -1,13 +1,12 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Mikhail Topolskiy
 tagline:          ""
-url:              http://whatthewhat.github.io
+url:              https://whatthewhat.github.io
 paginate:         1
-baseurl:          /
+baseurl:          ""
 author:
   name:           Mikhail Topolskiy
   url:            https://twitter.com/what_a_what
@@ -16,5 +15,6 @@ author:
 # Custom vars
 version:          1.0.0
 
-gems:
+plugins:
+  - jekyll-paginate
   - jekyll-redirect-from
